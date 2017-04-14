@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Darragh's Chrome Extension",
+  "description": "Sample extension for testing/learning",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+ ]
+}

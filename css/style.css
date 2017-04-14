@@ -1,0 +1,19 @@
+.container {
+  margin: 20px;
+}
+body {
+  border: 3px solid #00b388;
+  background-color: #f2f2f2;
+  width: 650px;
+}
+h1, h2, h3, h4 {
+  margin-top: 10px;
+}
+.title {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#pages, #root {
+  font-weight: 100;
+  text-transform: lowercase;
+}
